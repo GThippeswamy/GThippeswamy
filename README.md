@@ -1,49 +1,55 @@
-# Hi 👋, I'm Thippeswamy  
-**Software Development Engineer in Test (SDET)** with hands-on experience in Automation, Manual, API, and Performance testing.
-<!-- Typing SVG Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer+in+Test;Automation+%7C+Manual+%7C+API+%7C+Performance;Always+learning+new+tools)
+# Hi 👋, I'm Thippeswamy
+Software Development Engineer in Test (SDET) with hands-on experience in automation, manual, API, and performance testing.
 
----
----
+<!-- Typing SVG -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SDET+%7C+Automation+%7C+Manual+%7C+API+%7C+Performance;Selenium+%7C+Cypress+%7C+REST+Assured;Always+learning+and+building)
 
 ## 👨‍🎓 About Me
-- SDET skilled in Manual, Automation, API, and Performance Testing  
+- SDET skilled in manual, automation, API, and performance testing  
 - Proficient in Java, JavaScript, Selenium, Cypress, TestNG, Postman  
 - Experienced with CI/CD tools like Jenkins and GitHub Actions  
 - Strong in writing test cases, bug reports, and automation scripts  
 - Passionate about building reliable and scalable QA solutions  
 
----
-
 ## 🛠️ Skills & Tools
 
-**Languages:** Java | JavaScript | HTML | CSS | SQL  
-**Testing Skills:** Manual Testing, Selenium (Java), Cypress (JS), API Testing (Postman & REST Assured), Performance Testing (JMeter)  
-**Tools & Platforms:** Jira, Zephyr, GitHub, Jenkins, MySQL Workbench, VS Code  
+### 💻 Languages
+Java · JavaScript · HTML · CSS · SQL
 
----
+### 🧪 Testing Skills
+- Manual Testing: Functional, Non-Functional, Regression, UAT, Smoke, Sanity  
+- Automation: Selenium (Java), Cypress (JS), TestNG, Cucumber (BDD), POM  
+- API Testing: Postman, REST Assured  
+- Bug & Test Management: Jira, Zephyr  
+- Performance Testing: JMeter  
+- Security Testing: Burp Suite
+
+### 🧰 Tools & Platforms
+VS Code · Eclipse · STS · GitHub · Jenkins · Burp Suite · MySQL Workbench · X-Mind · JMeter
 
 ## 📊 GitHub Stats
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=GThippeswamy&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GThippeswamy&theme=tokyonight)  
-![Thippeswamy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GThippeswamy&show_icons=true&theme=tokyonight)  
+<!-- Overall Stats -->
+![Thippesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GThippeswamy&show_icons=true&theme=tokyonight)
+
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GThippeswamy&layout=compact&theme=tokyonight)
-
----
 
 ## 🧩 Fun Facts
 - 🧪 Passionate about turning test cases into quality code.  
 - 💬 Ask me about Selenium, Cypress, or API testing — I love it all!  
-- 🧠 Believer of: *Learning daily + Practicing smart = Growth in QA.*  
-- 📌 Currently working on: End-to-end automation for eCommerce applications.  
-- 📝 I create structured test plans, bug reports, and mind maps to streamline testing workflows.
+- 🧠 I believe: Learning daily + Practicing smart = Growth in QA  
+- 📌 Currently working on: End-to-end automation for eCommerce apps  
+- 📝 I create structured test plans, bug reports, and mind maps to simplify testing workflows.
 
----
-
-## 📫 Connect with Me
+## 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GThippeswamy)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-thippeswamy-68911437a)  
 
 ---
+---
 
-✨ Thanks for scrolling through! Together, let’s chase excellence in testing! 🚀
+Thanks for scrolling through! ✨ Together, let's chase excellence in testing!
+
