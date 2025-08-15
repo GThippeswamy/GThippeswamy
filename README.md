@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Thippeswamy
 
-<!--
-**GThippeswamy/GThippeswamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Software Development Engineer in Test (SDET)* with hands-on experience in Automation, Manual, API, and Performance testing.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- SDET skilled in Manual, Automation, API, and Performance Testing
+- Proficient in Java, JavaScript, Selenium, Cypress, TestNG, Postman
+- Experienced with CI/CD tools like Jenkins and GitHub Actions
+- Strong in writing test cases, bug reports, and automation scripts
+- Passionate about building reliable and scalable QA solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+*Languages:* Java, JavaScript, HTML, CSS, SQL  
+*Testing Skills:* Selenium (Java), Cypress (JS), API Testing with Postman & REST Assured, Performance Testing with JMeter  
+*Tools:* Jira, Zephyr, GitHub, Jenkins, MySQL Workbench, VS Code  
+
+## ⚡ Fun Facts
+- Passionate about turning test cases into quality code  
+- Ask me about Selenium, Cypress, or API testing — I love it all!  
+- I believe: Learning daily + Practicing smart = Growth in QA  
+- Currently working on: End-to-end automation for eCommerce apps
