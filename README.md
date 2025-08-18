@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SDET+%7C+Automation+%7C+Manual+%7C+API+%7C+Performance;Selenium+%7C+Cypress+%7C+REST+Assured;Always+learning+and+building)
 
 <!-- Profile Photo -->
-[![Thippeswamy's Profile](https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4)](https://github.com/GThippeswamy)
+
 
 <!-- Follow Button -->
 [![Follow @GThippeswamy](https://img.shields.io/github/followers/GThippeswamy?label=Follow&style=social)](https://github.com/GThippeswamy)
