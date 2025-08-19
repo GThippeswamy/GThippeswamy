@@ -20,7 +20,7 @@
 ## 🛠️ Skills & Tools
 
 ### 💻 Languages
-Java · JavaScript · HTML · CSS · SQL
+Java · JavaScript · HTML · CSS 
 
 ### 🧪 Testing Skills
 - Manual Testing: Functional, Non-Functional, Regression, UAT, Smoke, Sanity  
