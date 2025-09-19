@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,selenium,postman,mysql,git,github,jenkins" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,js,selenium,postman,mysql,git,github,jenkins" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
@@ -39,27 +39,32 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔗 [E-Commerce Automation Framework](https://github.com/GThippeswamy/Decathlon_project)  
-- 🔗 [API Testing with REST Assured](https://github.com/GThippeswamy/API_Testing_Framework)  
-- 🔗 [Performance Testing with JMeter](https://github.com/GThippeswamy/Performance_Testing)  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <!-- E-Commerce Automation -->
+        <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="80" alt="Web Automation"/><br/>
+        <a href="https://github.com/GThippeswamy/Decathlon_project">🛒 E-Commerce Automation</a>
+      </td>
+      <td align="center">
+        <!-- API Testing -->
+        <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="80" alt="API Testing"/><br/>
+        <a href="https://github.com/GThippeswamy/API_Testing_Framework">📡 API Testing</a>
+      </td>
+      <td align="center">
+        <!-- Performance Testing -->
+        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" alt="Performance Testing"/><br/>
+        <a href="https://github.com/GThippeswamy/Performance_Testing">⚡ Performance Testing</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GThippeswamy&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GThippeswamy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GThippeswamy&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
+## 📊 GitHub Stats <p align="center"> <img src="https://streak-stats.demolab.com?user=GThippeswamy&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GThippeswamy&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GThippeswamy&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> ---
 
 ## 📈 Contribution Graph  
 
@@ -72,9 +77,7 @@
 ## 🏆 Achievements & Certifications
 - 🥇 Automated 200+ Test Cases across Web & API  
 - 🥈 Built scalable Test Automation Frameworks (POM, BDD, Hybrid)  
-- ✅ ISTQB Certified Tester  
-- ✅ Postman API Fundamentals  
-- ✅ Jenkins CI/CD Basics  
+
 
 ---
 
