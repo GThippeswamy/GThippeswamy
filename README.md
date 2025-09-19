@@ -1,73 +1,100 @@
-# Hi 👋, I'm Thippeswamy
-**Software Development Engineer in Test (SDET)** with hands-on experience in automation, manual, API, and performance testing.
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=180&section=header&text=Hi%20I'm%20Thippeswamy%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<!-- Typing SVG -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SDET+%7C+Automation+%7C+Manual+%7C+API+%7C+Performance;Selenium+%7C+Cypress+%7C+REST+Assured;Always+learning+and+building)
+<h3 align="center">🚀 Software Development Engineer in Test (SDET)</h3>
 
-<!-- Follow Button -->
-[![Follow @GThippeswamy](https://img.shields.io/github/followers/GThippeswamy?label=Follow&style=social)](https://github.com/GThippeswamy)
-![Profile views](https://komarev.com/ghpvc/?username=GThippeswamy&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Automation+%7C+Manual+%7C+API+%7C+Performance;Selenium+%7C+Cypress+%7C+REST+Assured;Always+Learning+%7C+Always+Testing" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/GThippeswamy">
+    <img src="https://img.shields.io/github/followers/GThippeswamy?label=Follow&style=social" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=GThippeswamy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 👨‍🎓 About Me
-- 💻 SDET skilled in Manual, Automation, API, and Performance Testing  
-- ⚡ Proficient in Java, JavaScript, Selenium, Cypress, TestNG, Postman  
-- 🔧 Experienced with CI/CD tools like Jenkins and GitHub Actions  
-- 📝 Strong in writing test cases, bug reports, and automation scripts  
-- 🚀 Passionate about building reliable and scalable QA solutions  
+- 💻 Skilled in Manual, Automation, API & Performance Testing  
+- ⚡ Proficient in **Java, JavaScript, Selenium, Cypress, TestNG, Postman**  
+- 🔧 Experienced in **CI/CD with Jenkins, GitHub Actions**  
+- 📝 Strong at **Test Cases, Bug Reports, Automation Frameworks**  
+- 🌱 Always learning & upgrading QA skills to keep pace with industry  
+- 🚀 Passionate about building **reliable, scalable, and robust QA solutions**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST%20Assured-009688?style=for-the-badge)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,selenium,postman,mysql,git,github,jenkins" /><br/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 - 🔗 [E-Commerce Automation Framework](https://github.com/GThippeswamy/Decathlon_project)  
+- 🔗 [API Testing with REST Assured](https://github.com/GThippeswamy/API_Testing_Framework)  
+- 🔗 [Performance Testing with JMeter](https://github.com/GThippeswamy/Performance_Testing)  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=GThippeswamy&theme=tokyonight)  
-![Thippesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GThippeswamy&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GThippeswamy&layout=compact&theme=tokyonight)  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GThippeswamy&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GThippeswamy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GThippeswamy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GThippeswamy&theme=tokyo-night)
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GThippeswamy&theme=tokyo-night" />
+</p>
 
 ---
 
-
+## 🏆 Achievements & Certifications
+- 🥇 Automated 200+ Test Cases across Web & API  
+- 🥈 Built scalable Test Automation Frameworks (POM, BDD, Hybrid)  
+- ✅ ISTQB Certified Tester  
+- ✅ Postman API Fundamentals  
+- ✅ Jenkins CI/CD Basics  
 
 ---
 
 ## 🧩 Fun Facts
-- 🧪 Passionate about turning test cases into quality code  
-- 💬 Ask me about Selenium, Cypress, or API testing — I love it all!  
-- 🧠 I believe: Learning daily + Practicing smart = Growth in QA  
-- 📌 Currently working on: End-to-end automation for eCommerce apps  
+- 🧪 Love turning **test cases into code**  
+- 💬 Can talk hours about Selenium, Cypress & API Testing  
+- 🧠 Motto: *"Learn Daily + Practice Smart = QA Growth"*  
+- 📌 Current Work: End-to-end eCommerce automation  
 
 ---
 
-## 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GThippeswamy)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-thippeswamy-68911437a)  
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/GThippeswamy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/g-thippeswamy-68911437a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gthippeswamy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-✨ Thanks for visiting! Together, let's chase excellence in testing 🚀
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:36BCF7&height=120&section=footer"/>
